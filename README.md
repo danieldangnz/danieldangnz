@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Daniel Dang from New Zealand.
-- 👀 I’m interested in web technologies.
+- 👀 I’m interested in mobile apps & web technologies.
